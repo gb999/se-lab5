@@ -1,0 +1,1 @@
+- A katalógus nem került be a use-case modellbe.
